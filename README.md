@@ -15,4 +15,4 @@ The purpose of this project is to handle the backend fetching operations from ne
 
 - Gert your own [free API key](https://newsapi.org/docs/authentication) by logging in and generating one from newsapi.org.
 - Swap out the "API_KEY" placeholder in the `.env` file for your generated key.
-- `cargo run` to build and run.
+- `$ cargo run` to build and run.
